@@ -1,9 +1,9 @@
 # Luis Evangelista👨‍💻
 
-**`Desenvolvedor Back-end Java`** ☕
+**`Engenheiro de Dados`** 🎲
 
-Sou Luis Guilherme curso análise e Desenvolvimento de Sistemas na Uninassau,desde de criança sempre fui apixonado por tecnologia e sempre tive um interesse em descobrir como tudo isso funcionava "Por baixo dos panos".
-Java foi a única linguagem que chamou de verdade minha atenção por isso decidi estudar para me tornar um brilhante Dev Java ☕.
+Sou Luis Guilherme curso análise e Desenvolvimento de Sistemas na Uninassau,desde de criança sempre fui apaixonado por tecnologia e sempre tive um interesse em descobrir como tudo isso funcionava "Por baixo dos panos".
+quando descobri a área de engenharia de dados decidi me empenhar para aprender tudo 🎲.
 
 
 
@@ -14,82 +14,53 @@ Java foi a única linguagem que chamou de verdade minha atenção por isso decid
 
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
-    alt="SpringBot" 
-    title="Git"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="RabbitMQ" 
-    title="Git"
+    alt="MySQL Workbench" 
+    title="MySQL Workbench"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
-    alt="PostGree" 
-    title="Git"
+    alt="DBeaver" 
+    title="DBeaver"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
 />
 <img 
     align="left" 
     alt="Docker" 
-    title="docker"
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 <img 
     align="left" 
-    alt="Linux" 
-    title="Linux"
+    alt="Ubuntu" 
+    title="Linux Ubuntu"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
 />
 
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-<img 
-    align="left" 
-    height="200px" 
-    src="https://github-readme-stats.vercel.app/api?username=lluisEvan&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
-/>
-<img 
-    align="left" 
-    height="200px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluisEvan&theme=dracula" 
-/>
