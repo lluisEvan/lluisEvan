@@ -2,7 +2,7 @@
 
 **`Engenheiro de Dados`** 🎲
 
-Sou Luis Guilherme curso análise e Desenvolvimento de Sistemas na Uninassau,desde de criança sempre fui apaixonado por tecnologia e sempre tive um interesse em descobrir como tudo isso funcionava "Por baixo dos panos".
+Sou Luis Guilherme formado em análise e Desenvolvimento de Sistemas na Uninassau,desde de criança sempre fui apaixonado por tecnologia e sempre tive um interesse em descobrir como tudo isso funcionava "Por baixo dos panos".
 quando descobri a área de engenharia de dados decidi me empenhar para aprender tudo 🎲.
 
 
